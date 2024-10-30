@@ -1,0 +1,16 @@
+cffi>=1.17.1
+colorthief>=0.2.1
+darkdetect>=0.8.0
+numpy>=2.0.2
+pillow>=11.0.0
+pycparser>=2.22
+pydub>=0.25.1
+PyQt6>=6.7.1
+PyQt6-Fluent-Widgets>=1.7.0
+PyQt6-Frameless-Window>=0.4.3
+PyQt6-Qt6>=6.7.3
+PyQt6_sip>=13.8.0
+pywin32>=308
+scipy>=1.13.1
+simpleaudio>=1.0.4
+sounddevice>=0.5.1

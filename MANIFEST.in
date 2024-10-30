@@ -1,0 +1,5 @@
+# Include the resource files
+recursive-include couchguitar/resource *
+include couchguitar/intro.wav
+include couchguitar/songs/*.txt
+include README.md
