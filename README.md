@@ -42,5 +42,4 @@ Here’s an example of Couch Guitar in use:
 
 ![Couch Guitar Screenshot](./screenshots/screen1.png)
 
-> **Note**: The image `example.png` should be located in the `screenshots` directory.
 
